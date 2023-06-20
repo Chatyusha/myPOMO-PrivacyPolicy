@@ -1,3 +1,5 @@
+![myPOMO](images/head.png)
+
 # プライバシーポリシー
 
 ## 利用者情報の取得
@@ -18,3 +20,5 @@
 利用者が本アプリを利用して生じた損害に関して、開発元は責任を負わないものとします。
 
 ## お問合せ先
+
+[mypomo.schedule@gmail.com](mypomo.schedule@gmail.com)
